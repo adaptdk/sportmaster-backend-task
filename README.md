@@ -8,7 +8,7 @@ Create an algorithm which will allocate responsibilities to stores with least sh
 3. If there is multiple stores which can deliver same products, responsible store should be chosen randomly. Example: Store 1 and Store 2 can ship Product 1 and Product 2 to customer. Algorithm should chose either Store 1 or Store 2. (Only when assigning more than one product)
 4. Use any PHP frameworks.
 5. Code should be fully covered by Unit tests.
-6. ......
+6. Upload code to github and share a link with us.
 
 # Data examples
 1. Store
