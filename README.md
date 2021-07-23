@@ -32,7 +32,7 @@ Create an algorithm which will allocate responsibilities to stores with least sh
   2. Product sku (size identifier)
   3. Store (responsible store for shipping the item)
 
-*NOTE: THis are only examples, improvisation is allowed.*
+*NOTE: These are only examples, improvisation is allowed.*
 
 # Examples
 1. Example Nr. 1 (Simple responsability alocation - priority list)  (TODO, create example)
