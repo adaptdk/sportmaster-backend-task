@@ -1,6 +1,6 @@
 # Backend task
 
-Our client has more than 100 physical stores, which will be converted to mini warehouses. Each store will be responsible to ship products to customers.
+Our client has more than 100 physical stores, which will be converted to mini warehouses. When order is placed online, each store will be responsible to ship products to customers.
 Create an algorithm which will allocate responsibilities to stores with least shipments required.
 
 # Acceptance criterias
