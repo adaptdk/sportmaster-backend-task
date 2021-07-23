@@ -4,7 +4,7 @@ Our client has more than 100 physical stores, which will be converted to mini wa
 Create an algorithm which will allocate responsibilities to stores with least shipments required.
 
 # Acceptance criterias
-1. Stores are stored in the priority list. (Only when assigned single products)
+1. Stores are stored in the priority list. (Only when assigning single product)
 3. If there is multiple stores which can deliver same products, responsible store should be chosen randomly. Example: Store 1 and Store 2 can ship Product 1 and Product 2 to customer. Algorithm should chose either Store 1 or Store 2. (Only when assigning more than one product)
 4. Use any PHP framework.
 5. Code should be fully covered by Unit tests.
