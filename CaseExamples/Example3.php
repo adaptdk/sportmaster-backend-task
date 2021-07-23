@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Example when two identical products.
+ * Example with two identical products.
  */
 
 use App\DataExamples\Cart\Cart;
