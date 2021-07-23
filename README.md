@@ -11,14 +11,14 @@ Create an algorithm which will allocate responsibilities to stores with least sh
 6. Upload code to github and share a link with us.
 
 # Data examples
-1. Store
-2. Store product inventory item
-3. Cart
-4. Product in cart
+1. Store (TODO, create object)
+2. Store product inventory item  (TODO, create object)
+3. Cart  (TODO, create object)
+4. Product in cart  (TODO, create object)
 
 # Examples
-1. Example Nr. 1 (Simple responsability alocation - priority list)
-2. Example Nr. 2 (Random store allocation - when products could be grouped)
+1. Example Nr. 1 (Simple responsability alocation - priority list)  (TODO, create example)
+2. Example Nr. 2 (Random store allocation - when products could be grouped)  (TODO, create example)
 3. Example Nr. 3......
 
 
