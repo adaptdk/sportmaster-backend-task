@@ -11,10 +11,24 @@ Create an algorithm which will allocate responsibilities to stores with least sh
 6. Upload code to github and share a link with us.
 
 # Data examples
-1. Store (TODO, create object)
-2. Store product inventory item  (TODO, create object)
-3. Cart  (TODO, create object)
-4. Product in cart  (TODO, create object)
+
+## Store (TODO, create object)
+  1. Store ID (identifier)
+  2. Store name
+  3. Inventory list
+
+## Store product inventory item  (TODO, create object)
+  1. Product sdk (identifier)
+  2. Product sku (size identifier)
+  3. Quantity
+
+## Cart  (TODO, create object)
+  1. List of products in cart (NOTE: list is not grouped by quantity)
+
+## Product in cart  (TODO, create object)
+  1. Product sdk (identifier)
+  2. Product sku (size identifier)
+  3. Store (responsible store for shipping the item)
 
 # Examples
 1. Example Nr. 1 (Simple responsability alocation - priority list)  (TODO, create example)
