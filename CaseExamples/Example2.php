@@ -32,7 +32,6 @@ $stores2 = new Store(
     [
         new Inventory(992994, '99999199811', 10),
         new Inventory(993991, '99399199991', 10),
-
     ]
 );
 
@@ -47,7 +46,7 @@ $stores3 = new Store(
 $storesPriorityList = [
     $stores1,
     $stores2,
-    $stores3
+    $stores3,
 ];
 
 /**

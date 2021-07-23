@@ -44,7 +44,7 @@ $stores3 = new Store(
 $storesPriorityList = [
     $stores1,
     $stores2,
-    $stores3
+    $stores3,
 ];
 
 /**

@@ -35,8 +35,9 @@ Create an algorithm which will allocate responsibilities to stores with the leas
 **NOTE: These are only examples, improvisation is allowed.*
 
 # Examples
-1. [Example Nr. 1 (Simple responsibility allocation - priority list)](https://github.com/adaptdk/sportmaster-backend-task/blob/main/CaseExamples/Example1.php)
-2. [Example Nr. 2 (Random store allocation - when products could be grouped)]((https://github.com/adaptdk/sportmaster-backend-task/blob/main/CaseExamples/Example2.php))
+1. [Example Nr. 1 (simple responsibility allocation - priority list)](https://github.com/adaptdk/sportmaster-backend-task/blob/main/CaseExamples/Example1.php)
+2. [Example Nr. 2 (random store allocation - when products could be grouped)](https://github.com/adaptdk/sportmaster-backend-task/blob/main/CaseExamples/Example2.php)
+2. [Example Nr. 3 (two identical products in cart)](https://github.com/adaptdk/sportmaster-backend-task/blob/main/CaseExamples/Example3.php)
 
 **If there will be a need for more examples, don't hesitate to ask.*
 
