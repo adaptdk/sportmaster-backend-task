@@ -12,20 +12,20 @@ Create an algorithm which will allocate responsibilities to stores with least sh
 
 # Data examples
 
-## Store (TODO, create object)
+### Store (TODO, create object)
   1. Store ID (identifier)
   2. Store name
   3. Inventory list
 
-## Store product inventory item  (TODO, create object)
+### Store product inventory item  (TODO, create object)
   1. Product sdk (identifier)
   2. Product sku (size identifier)
   3. Quantity
 
-## Cart  (TODO, create object)
+### Cart  (TODO, create object)
   1. List of products in cart (NOTE: list is not grouped by quantity)
 
-## Product in cart  (TODO, create object)
+### Product in cart  (TODO, create object)
   1. Product sdk (identifier)
   2. Product sku (size identifier)
   3. Store (responsible store for shipping the item)
